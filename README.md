@@ -166,6 +166,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	33	|	Kubernetes Image Puller  	|	[ Caching images on a cluster by creating a DaemonSet downloading and running the container images on each node ](https://github.com/che-incubator/kubernetes-image-puller)	|	![Github Stars](https://img.shields.io/github/stars/che-incubator/kubernetes-image-puller)	|
 |	34	|	image-builder  	|	[ A tool for building Kubernetes virtual machine images across multiple infrastructure providers. ](https://github.com/kubernetes-sigs/image-builder)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/image-builder)	|
 |	35	|	Kubed   	|	[ Kubed with a intuitive interactive interface within Emacs help us work with our Kubernetes clusters and deployments with the full power of kubectl](https://github.com/eshelyaron/kubed)	|	![Github Stars](https://img.shields.io/github/stars/eshelyaron/kubed)	|
+|	36	|	Duplik8s   	|	[ Duplik8s is a kubectl plugin to duplicate resources in a Kubernetes cluster. ](https://github.com/Telemaco019/duplik8s)	|	![Github Stars](https://img.shields.io/github/stars/Telemaco019/duplik8s)	|
 
 ## Alert and Monitoring						
 									
@@ -594,6 +595,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 4 | kube-green | [kube-green is a simple k8s addon that automatically shuts down (some of) your resources when you don't need them](https://github.com/kube-green/kube-green) | ![Github Stars](https://img.shields.io/github/stars/kube-green/kube-green) |
 | 5 | kepler | [Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics](https://github/stars/sustainable-computing-io/kepler) | ![Github Stars](https://img.shields.io/github/stars/sustainable-computing-io/kepler) |
 | 6 | KBOM | [ KBOM - Kubernetes Bill of Materials ](https://github.com/rad-security/kbom) | ![Github Stars](https://img.shields.io/github/stars/rad-security/kbom) |
+| 7 | StormForge | [ Autonomous Rightsizing for Kubernetes Workloads ](https://stormforge.io) | - |
 
 	
 ## Function as a Service FaaS			
