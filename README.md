@@ -17,11 +17,13 @@ Follow the Kubetools [Twitter](https://twitter.com/kubetools) account for update
 
 Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 10,000+ DevOps enthusiasts.<br>
 
-## Top Featured Kubernetes Tools( Nov 2024)				
+## Top Featured Kubernetes Tools( Feb 2025)				
 				
-- [Krs](https://github.com/kubetoolsca/krs)
+
+- [KubeArchInspect](https://github.com/ArmDeveloperEcosystem/kubearchinspect)
 - [Kuberay](https://collabnix.com/deploying-ray-on-kubernetes/)
 - [K8s-insider](https://collabnix.com/streamlining-kubernetes-networking-with-k8s-insider/)
+- [Krs](https://github.com/kubetoolsca/krs)
 - [Stern](https://collabnix.com/tail-kubernetes-with-stern/)
 - [Node Problem Detector](https://kubetools.io/monitoring-node-health-with-node-problem-detector-in-kubernetes/)	
 - [Karpenter](https://kubetools.io/supercharge-your-kubernetes-cluster-with-karpenter/)
@@ -33,7 +35,6 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 ## Table of Contents
 
 - [Kubetools - A Curated List of Kubernetes Tools](#kubetools---a-curated-list-of-kubernetes-tools)
-  - [Top Featured Kubernetes Tools( Sep 2024)](#top-featured-kubernetes-tools-sep-2024)
   - [Table of Contents](#table-of-contents)
   - [Pods](#pods)
   - [Cluster Management](#cluster-management)
@@ -129,6 +130,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 48 |	RBAC Wizard | [  Helps to visualize and analyze the RBAC configurations of the Kubernetes cluster. ](https://github.com/pehlicd/rbac-wizard) | ![Github Stars](https://img.shields.io/github/stars/pehlicd/rbac-wizard) |
 | 49 |	Kondense | [  Kondense is a tool designed for Kubernetes environments, specifically focused on optimizing memory and CPU usage in containers. ](https://github.com/unagex/kondense) | ![Github Stars](https://img.shields.io/github/stars/unagex/kondense) |
 | 50 |	Kubeseal-Webgui | [  Kubeseal-Webgui is a simple web ui for Bitnami Sealed Secrets. ](https://github.com/Jaydee94/kubeseal-webgui) | ![Github Stars](https://img.shields.io/github/stars/Jaydee94/kubeseal-webgui) |
+| 51 |	Klutch | [ Klutch extends Crossplane to manage resources across multiple Kubernetes clusters ](https://github.com/anynines/klutchio) | ![Github Stars](https://img.shields.io/github/stars/anynines/klutchio) |
+| 52 |	Kanvas | [ A comprehensive suite of collaborative tools for designing, deploying and managing cloud-native infrastructure. ](https://kanvas.new) | ![Github Stars](https://img.shields.io/github/stars/meshery/meshery) |
+
 
 ## Cluster with Core CLI tools						
 									
@@ -170,6 +174,11 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	34	|	image-builder  	|	[ A tool for building Kubernetes virtual machine images across multiple infrastructure providers. ](https://github.com/kubernetes-sigs/image-builder)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/image-builder)	|
 |	35	|	Kubed   	|	[ Kubed with a intuitive interactive interface within Emacs help us work with our Kubernetes clusters and deployments with the full power of kubectl](https://github.com/eshelyaron/kubed)	|	![Github Stars](https://img.shields.io/github/stars/eshelyaron/kubed)	|
 |	36	|	Duplik8s   	|	[ Duplik8s is a kubectl plugin to duplicate resources in a Kubernetes cluster. ](https://github.com/Telemaco019/duplik8s)	|	![Github Stars](https://img.shields.io/github/stars/Telemaco019/duplik8s)	|
+|	37	|	kl  	|	[	Interactive, multi container and cluster terminal app for logs ](https://github.com/robinovitch61/kl)	|	![Github Stars](https://img.shields.io/github/stars/robinovitch61/kl)	|
+|	38	|	kubectl foreach  	|	[  Run kubectl commands in all/some contexts in parallel (similar to GNU xargs+parallel) ](https://github.com/ahmetb/kubectl-foreach)	|	![Github Stars](https://img.shields.io/github/stars/ahmetb/kubectl-foreach)	|
+|	39	|	kubecui  	|	[ kubeui makes kubectl more user friendly ](https://github.com/pymag09/kubecui)	|	![Github Stars](https://img.shields.io/github/stars/pymag09/kubecui)	|
+|	40	|	q-as-kubectl  	|	[ q as kubectl: yet another way to control k8s commands ](https://github.com/ildar-shaimordanov/q-as-kubectl)	|	![Github Stars](https://img.shields.io/github/stars/ildar-shaimordanov/q-as-kubectl)	|
+
 
 ## Alert and Monitoring						
 									
@@ -197,7 +206,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	20	|	X.509 Certificate Exporter	|	[	Watch certificates for expiration in Kubernetes Secrets and control-plane files. Alerts and dashboard available.](https://github.com/enix/x509-certificate-exporter/)	|	![Github Stars](https://img.shields.io/github/stars/enix/x509-certificate-exporter)	|
 |	21	|	VpK	|	[VpK - Visually presented Kubernetes  View k8s in graphical fashion ](https://github.com/k8svisual/vpk)	|	![Github Stars](https://img.shields.io/github/stars/k8svisual/vpk)	|
 |	22	|	k8s-collector	|	[A Kubernetes Job to collect resources, logs and events from a Kubernetes cluster ](https://github.com/gianlucam76/k8s_collector)	|	![Github Stars](https://img.shields.io/github/stars/gianlucam76/k8s_collector)	|
-
+|	23	|	HolmesGPT	|	[  On-Call Assistant for Prometheus Alerts - Get a head start on fixing alerts with AI investigation ](https://github.com/robusta-dev/holmesgpt)	|	![Github Stars](https://img.shields.io/github/stars/robusta-dev/holmesgpt)	|
+|	24	|	kcmsu	|	[  K8s ConfigMaps and Secrets Usage ](https://github.com/cristian98149/kcmsu)	|	![Github Stars](https://img.shields.io/github/stars/cristian98149/kcmsu)	|
 
 
 ## Logging and Tracing						
@@ -239,6 +249,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	14 |	kubent  	|	[	Easily check your clusters for use of deprecated APIs](https://github.com/doitintl/kube-no-trouble)	|	![Github Stars](https://img.shields.io/github/stars/doitintl/kube-no-trouble)	|
 |	15 |	kftray  	|	[ A cross-platform system tray application for managing multiple kubectl port-forward commands, with support for UDP and proxy connections through k8s clusters ](https://github.com/hcavarsan/kftray)	|	![Github Stars](https://img.shields.io/github/stars/hcavarsan/kftray)	|
 |	16 |	kuttl  	|	[	Declarative approach to test Kubernetes Operators.](https://github.com/kudobuilder/kuttl)	|	![Github Stars](https://img.shields.io/github/stars/kudobuilder/kuttl)	|
+|	17 |	kdave  	|	[ The kdave (Kubernetes Deprecated API Versions Exporter) checks for any deprecated or removed apiVersions in the cluster and exports them in a Prometheus metrics format ](https://github.com/wayfair-incubator/kdave)	|	![Github Stars](https://img.shields.io/github/stars/wayfair-incubator/kdave)	|
+|	18 |	kubediff  	|	[ Source VS Deployed - Used to sanity check and understand what has changed between environments ](https://github.com/Ramilito/kubediff)	|	![Github Stars](https://img.shields.io/github/stars/Ramilito/kubediff)	|
 
 									
 ## Developement Tools/Kit						
@@ -313,6 +325,11 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  66  |   scaf   |   [  scaf provides developers and DevOps engineers with a complete blueprint for a new project using Kubernetes  ](https://github.com/sixfeetup/scaf)   |   ![Github Stars](https://img.shields.io/github/stars/sixfeetup/scaf)  |
 |  67  |   mogenius   |   [  A self-service platform that enables developers to deploy and manage applications on Kubernetes with ease and safety  ](https://mogenius.com)   |   -  |
 |  68  |   Armada   |   [ A multi-cluster batch queuing system for high-throughput workloads on Kubernetes. ](https://github.com/armadaproject/armada)   |   ![Github Stars](https://img.shields.io/github/stars/armadaproject/armada)  |
+|  69  |   kro   |   [ Kube Resource Orchestrator (kro) provides a powerful abstraction layer that allows you to define complex multi-resource constructs as reusable components in your applications and systems](https://github.com/awslabs/kro)   |   ![Github Stars](https://img.shields.io/github/stars/awslabs/kro)  |
+|  70  |   kubectl-slice   |   [ Split multiple Kubernetes files into smaller files with ease. Split multi-YAML files into individual files](https://github.com/patrickdappollonio/kubectl-slice)   |   ![Github Stars](https://img.shields.io/github/stars/patrickdappollonio/kubectl-slice)  |
+|  71  |   crik   |   [ crik is a project that aims to provide checkpoint and restore functionality for Kubernetes pods mainly targeted for node shutdown and restart scenarios ](https://github.com/qawolf/crik)   |   ![Github Stars](https://img.shields.io/github/stars/qawolf/crik)  |
+|  72  |   kbld   |   [ kbld seamlessly incorporates image building and image pushing into your development and deployment workflows ](https://github.com/carvel-dev/kbld)   |   ![Github Stars](https://img.shields.io/github/stars/carvel-dev/kbld)  |
+|  73  |   Helm Kanvas Snapshot  |   [ Plugin that generates a visual snapshot of Helm charts. ](https://github.com/meshery/helm-kanvas-snapshot)   |   ![Github Stars](https://img.shields.io/github/stars/meshery/helm-kanvas-snapshot)  |
 
 
 ## Alternative Tools for Development						
@@ -329,6 +346,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	8	|	Otomi  	|	[	Self-hosted PaaS for Kubernetes](https://github.com/redkubes/otomi-core)	|	![Github Stars](https://img.shields.io/github/stars/redkubes/otomi-core)	|
 |	9	|	Rainbond  	|	[	offers a serverless experience, and allows you to easily manage containerized applications without needing to understand Kubernetes](https://github.com/goodrain/rainbond)	|	![Github Stars](https://img.shields.io/github/stars/goodrain/rainbond)	|
 |	10	|	MyKube  	|	[ k8s-installer - One-click k8s single-node cluster installation on your own device ](https://github.com/guyst16/mykube)	|	![Github Stars](https://img.shields.io/github/stars/guyst16/mykube)	|
+|	11	|	K8e  	|	[ K8e 🚀 - Instantly Ready Kubernetes Enterprise Edition ](https://github.com/xiaods/k8e)	|	![Github Stars](https://img.shields.io/github/stars/xiaods/k8e)	|
 
 
 									
@@ -357,6 +375,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 	19 	| kubedog | [ Library to watch and follow kubernetes resources in CI/CD deploy pipelines](https://github.com/werf/kubedog) |  ![Github Stars](https://img.shields.io/github/stars/werf/kubedog)      |
 | 	20 	| Kubefirst | [ GitOps Infrastructure & Application Delivery Platform](https://github.com/kubefirst/kubefirst) |  ![Github Stars](https://img.shields.io/github/stars/kubefirst/kubefirst)      |
 | 	21	| autoapply | [ Automatically apply changes to a Kubernetes cluster](https://github.com/autoapply/autoapply) |  ![Github Stars](https://img.shields.io/github/stars/autoapply/autoapply)      |
+| 	22	| mani-diffy | [ a hierarchy of Argo CD Application templates, renders Kubernetes manifests from the input templates, and posts the rendered files back for the user to review and validate ](https://github.com/chime/mani-diffy) |  ![Github Stars](https://img.shields.io/github/stars/chime/mani-diffy)      |
 
 	 
 ## Security Tools						
@@ -406,6 +425,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	41	|	KubeClarity  	|	[	 KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems. ](https://github.com/openclarity/kubeclarity)	|	![Github Stars](https://img.shields.io/github/stars/openclarity/kubeclarity)	|
 |	42	|	MKAT  	|	[ All-in-one auditing toolkit for identifying common security issues in managed Kubernetes environments. Currently supports Amazon EKS ](https://github.com/DataDog/managed-kubernetes-auditing-toolkit)	|	![Github Stars](https://img.shields.io/github/stars/DataDog/managed-kubernetes-auditing-toolkit)	|
 |	43	|	Kubescape  	|	[ Kubernetes security platform for configuration scanning, risk analysis, and runtime protection. CNCF project that includes policy enforcement, vulnerability scanning, and RBAC visualizer ](https://github.com/kubescape/kubescape)	|	![Github Stars](https://img.shields.io/github/stars/kubescape/kubescape)	|
+|	44	|	Oligo  	|	[ Observe application behavior to see what your risks really are – and stop breaches before they begin ](https://www.oligo.security/)	|	-	|
+|	45	|	kube-advisor.io  	|	[ kube-advisor.io lets you detect misconfigurations and best practice violations of your Kubernetes clusters - continuously and in real-time ](https://kube-advisor.io/)	|	-	|
 
 
 ## Network Policies						
@@ -426,6 +447,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	12	|	netfetch	|	[	Scan k8s clusters for network policies and identifying unprotected workloads. ](https://github.com/deggja/netfetch)	|	![Github Stars](https://img.shields.io/github/stars/deggja/netfetch)	 |
 |	13	|	Network Policy API	|	[	A further work involving Kubernetes network security beyond the NetworkPolicy v1 resource. ](https://github.com/kubernetes-sigs/network-policy-api)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/network-policy-api)	 |
 |	14	|	KubeIP	|	[ Assign static public IPs to Kubernetes nodes (GKE, EKS) ](https://github.com/doitintl/kubeip)	|	![Github Stars](https://img.shields.io/github/stars/doitintl/kubeip)	 |
+|	15	|	kube-vip	|	[  Kubernetes Control Plane Virtual IP and Load-Balancer ](https://github.com/kube-vip/kube-vip)	|	![Github Stars](https://img.shields.io/github/stars/kube-vip/kube-vip)	 |
+|	16	|	k8s-tun	|	[  Kubernetes Access k8s pod ip, service ip ](https://github.com/yzxiu/k8s-tun)	|	![Github Stars](https://img.shields.io/github/stars/yzxiu/k8s-tun)	 |
 
 
 									
@@ -571,7 +594,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |     3      |   VolSync             |  [	Asynchronous data replication for Kubernetes volumes](https://github.com/backube/volsync)  |	 ![Github Stars](https://img.shields.io/github/stars/backube/volsync)
 |     4     |   Reflector             |  [	Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.](https://github.com/emberstack/kubernetes-reflector)  |	 ![Github Stars](https://img.shields.io/github/stars/emberstack/kubernetes-reflector)
 |     5      |   SnapScheduler          |  [	Scheduled snapshots for Kubernetes persistent volumes.](https://github.com/backube/snapscheduler)  |	 ![Github Stars](https://img.shields.io/github/stars/backube/snapscheduler)|
-|     6      |   K8up Backup Operator           |  [	K8up is a Kubernetes backup operator based on Restic that will handle PVC and application backups on a Kubernetes or OpenShift cluster](https://github.com/k8up-io/k8up)  |	 ![Github Stars](https://img.shields.io/github/stars/k8up-io/k8up)
+|     6      |   K8up Backup Operator           |  [	K8up is a Kubernetes backup operator based on Restic that will handle PVC and application backups on a Kubernetes or OpenShift cluster](https://github.com/k8up-io/k8up)  |	 ![Github Stars](https://img.shields.io/github/stars/k8up-io/k8up) |
+|     7      |   KubeSnapIt           |  [	KubeSnapIt is a PowerShell tool that simplifies managing your Kubernetes resources by providing functionalities for taking snapshots, comparing resources, and restoring them. For Windows, MacOS, and Linux.](https://github.com/KubeDeckio/KubeSnapIt)  |	 ![Github Stars](https://img.shields.io/github/stars/KubeDeckio/KubeSnapIt) |
+
 
 
   
@@ -587,6 +612,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	6	|	Krateo Platformops 	|	[	 Open source platform to manage infrastructure, resources and applications via YAML files](https://github.com/krateoplatformops/krateo)	|	![Github Stars](https://img.shields.io/github/stars/krateoplatformops/krateo)	|
 |	7	|	Kamus 	|	[	 An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications](https://github.com/Soluto/kamus)	|	![Github Stars](https://img.shields.io/github/stars/Soluto/kamus)	|
  |	8	|	korb 	|	[	 Move Kubernetes PVCs between Storage Classes and Namespaces](https://github.com/BeryJu/korb)	|	![Github Stars](https://img.shields.io/github/stars/BeryJu/korb)	|																
+ |	9	|	KubeDeck Launcher 	|	[	KubeDeck Launcher is a PowerShell-based UI that integrates KubeTidy and KubeSnapIt, allowing you to manage Kubernetes resources through a single interface.](https://github.com/KubeDeckio/KubeDeck)	|	![Github Stars](https://img.shields.io/github/stars/KubeDeckio/KubeDeck)	|	
 
 
 ## Cost Optimisation						
@@ -661,6 +687,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  3  |   CRI-Purge   |   [CRI Purge - Cleanup of Cached Kubernetes CRI Images](https://github.com/reefland/cri-purge)   |   ![Github Stars](https://img.shields.io/github/stars/reefland/cri-purge)  |
 |  4  |   Pred8tor   |   [ Pred8tor is a simple tool to clean up K8s objects that were tagged for expiration ](https://github.com/pavelzag/pred8tor)   |   ![Github Stars](https://img.shields.io/github/stars/pavelzag/pred8tor)  |
 |  5  |   Kubetrim   |   [ Kubetrim is a command-line tool designed to automatically clean up your Kubernetes configuration file (KUBECONFIG) ](https://github.com/alexellis/kubetrim)   |   ![Github Stars](https://img.shields.io/github/stars/alexellis/kubetrim)  |
+|  6  |   KubeTidy   |   [KubeTidy is a PowerShell tool that helps you manage your Kubernetes kubeconfig files by removing unreachable clusters, along with their associated users and contexts. For Windows, Macos, and Linux](https://github.com/KubeDeckIo/KubeTidy)   |   ![Github Stars](https://img.shields.io/github/stars/KubeDeckIo/KubeTidy)  |
 
 
 ## Non-Categorize						
@@ -685,6 +712,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	16	|	kube-job  	|	[	Run one off job on kubernetes from the command line tool](https://github.com/h3poteto/kube-job)	|	![Github Stars](https://img.shields.io/github/stars/h3poteto/kube-job)	|
 |	17	|	paster  	|	[	This program base64 encodes a file, then pastes chunks it into an activated window using 'Ctrl+V' in the pod ](https://github.com/BuFuuu/paster/tree/main)	|	-	|
 |	18	|	Mirror  	|	[	A Kubernetes ConfigMap and Secrets reflector with a strong emphasis on security and performance	](https://github.com/lab42/mirror/tree/main)	|	![Github Stars](https://img.shields.io/github/stars/lab42/mirror)	|
+|	19	|	Scaphandre  	|	[ a metrology agent dedicated to electric power and energy consumption metrics ](https://github.com/hubblo-org/scaphandre)	|	![Github Stars](https://img.shields.io/github/stars/hubblo-org/scaphandre)	|
 
 ## Maintainer
 
