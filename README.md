@@ -17,7 +17,7 @@ Follow the Kubetools [Twitter](https://twitter.com/kubetools) account for update
 
 Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 10,000+ DevOps enthusiasts.<br>
 
-## Top Featured Kubernetes Tools( Feb 2025)				
+## Top Featured Kubernetes Tools( July 2025)				
 				
 
 - [KubeArchInspect](https://github.com/ArmDeveloperEcosystem/kubearchinspect)
@@ -251,6 +251,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	16 |	kuttl  	|	[	Declarative approach to test Kubernetes Operators.](https://github.com/kudobuilder/kuttl)	|	![Github Stars](https://img.shields.io/github/stars/kudobuilder/kuttl)	|
 |	17 |	kdave  	|	[ The kdave (Kubernetes Deprecated API Versions Exporter) checks for any deprecated or removed apiVersions in the cluster and exports them in a Prometheus metrics format ](https://github.com/wayfair-incubator/kdave)	|	![Github Stars](https://img.shields.io/github/stars/wayfair-incubator/kdave)	|
 |	18 |	kubediff  	|	[ Source VS Deployed - Used to sanity check and understand what has changed between environments ](https://github.com/Ramilito/kubediff)	|	![Github Stars](https://img.shields.io/github/stars/Ramilito/kubediff)	|
+| 19 | kubebuddy | [A PowerShell tool for monitoring and managing Kubernetes clusters, supporting JSON, TXT, and HTML output formats with a CLI option for streamlined operations, including health check scoring for cluster assessment](https://github.com/KubeDeckio/KubeBuddy) | ![Github Stars](https://img.shields.io/github/stars/KubeDeckio/KubeBuddy) |
+
 
 									
 ## Developement Tools/Kit						
@@ -330,6 +332,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  71  |   crik   |   [ crik is a project that aims to provide checkpoint and restore functionality for Kubernetes pods mainly targeted for node shutdown and restart scenarios ](https://github.com/qawolf/crik)   |   ![Github Stars](https://img.shields.io/github/stars/qawolf/crik)  |
 |  72  |   kbld   |   [ kbld seamlessly incorporates image building and image pushing into your development and deployment workflows ](https://github.com/carvel-dev/kbld)   |   ![Github Stars](https://img.shields.io/github/stars/carvel-dev/kbld)  |
 |  73  |   Helm Kanvas Snapshot  |   [ Plugin that generates a visual snapshot of Helm charts. ](https://github.com/meshery/helm-kanvas-snapshot)   |   ![Github Stars](https://img.shields.io/github/stars/meshery/helm-kanvas-snapshot)  |
+|  74  |   KubeDiagrams  |   [ Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state. ](https://github.com/philippemerle/KubeDiagrams)   |   ![Github Stars](https://img.shields.io/github/stars/philippemerle/KubeDiagrams)  |
 
 
 ## Alternative Tools for Development						
@@ -386,7 +389,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	2	|	TerraScan  	|	[	Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.](https://github.com/accurics/terrascan)	|	![Github Stars](https://img.shields.io/github/stars/accurics/terrascan)	|
 |	3	|	klum  	|	[	Kubernetes Lazy User Manager](https://github.com/ibuildthecloud/klum)	|	![Github Stars](https://img.shields.io/github/stars/ibuildthecloud/klum)	|
 |	4	|	kube2iam  	|	[	IAM credentials to containers running inside a kubernetes cluster based on annotations.](https://github.com/jtblin/kube2iam)	|	![Github Stars](https://img.shields.io/github/stars/jtblin/kube2iam)	|
-|	5	|	Kyverno  	|	[	Kubernetes Native Policy Management https://kyverno.io](https://github.com/nirmata/kyverno)	|	![Github Stars](https://img.shields.io/github/stars/nirmata/kyverno)	|
+|	5	|	Kyverno  	|	[	Kubernetes Native Policy Management https://kyverno.io](https://github.com/kyverno/kyverno)	|	![Github Stars](https://img.shields.io/github/stars/kyverno/kyverno)	|
 |	6	|	kiosk  	|	[	kiosk office Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning](https://github.com/kiosk-sh/kiosk)	|	![Github Stars](https://img.shields.io/github/stars/kiosk-sh/kiosk)	|
 |	7	|	kube-bench  	|	[	CIS Kubernetes Benchmark tool](https://github.com/aquasecurity/kube-bench)	|	![Github Stars](https://img.shields.io/github/stars/aquasecurity/kube-bench)	|
 |	8	|	kube-hunter  	|	[	Pentesting tool - Hunts for security weaknesses in Kubernetes clusters](https://github.com/aquasecurity/kube-hunter)	|	![Github Stars](https://img.shields.io/github/stars/aquasecurity/kube-hunter)	|
