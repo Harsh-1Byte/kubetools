@@ -1,0 +1,22 @@
+name: CodeSpell Integration
+on:
+  push:
+    branches: ["master"]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Install and run codespell
+        run: |
+          pip install codespell
+          codespell --ignore-words-list=rouge --skip=./.git,./Gemfile.lock,./vendor

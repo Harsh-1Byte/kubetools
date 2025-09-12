@@ -17,7 +17,7 @@ Follow the Kubetools [Twitter](https://twitter.com/kubetools) account for update
 
 Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 10,000+ DevOps enthusiasts.<br>
 
-## Top Featured Kubernetes Tools( July 2025)				
+## Top Featured Kubernetes Tools( Sep 2025)				
 				
 
 - [KubeArchInspect](https://github.com/ArmDeveloperEcosystem/kubearchinspect)
@@ -42,7 +42,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
   - [Alert and Monitoring](#alert-and-monitoring)
   - [Logging and Tracing](#logging-and-tracing)
   - [Troubleshooting / Debugging](#troubleshooting--debugging)
-  - [Developement Tools/Kit](#developement-toolskit)
+  - [Development Tools/Kit](#developement-toolskit)
   - [Alternative Tools for Development](#alternative-tools-for-development)
   - [CI/CD integration Tools](#cicd-integration-tools)
   - [Security Tools](#security-tools)
@@ -90,7 +90,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	8	|	Clusterman  	|	[	Cluster Autoscaler for Kubernetes and Mesos](https://github.com/Yelp/clusterman)	|	![Github Stars](https://img.shields.io/github/stars/Yelp/clusterman)	|
 |	9	|	Cert-manager  	|	[	Automatically provision and manage TLS certificates](https://github.com/jetstack/cert-manager)	|	![Github Stars](https://img.shields.io/github/stars/jetstack/cert-manager)	|
 |	10	|	Goldilocks  	|	[	Get your resource requests "Just Right"](https://github.com/FairwindsOps/goldilocks)	|	![Github Stars](https://img.shields.io/github/stars/FairwindsOps/goldilocks)	|
-|	11	|	katafygio  	|	[	Dump, or continuously backup Kubernetes objets as yaml files in git](https://github.com/bpineau/katafygio)	|	![Github Stars](https://img.shields.io/github/stars/bpineau/katafygio)	|
+|	11	|	katafygio  	|	[	Dump, or continuously backup Kubernetes objects as yaml files in git](https://github.com/bpineau/katafygio)	|	![Github Stars](https://img.shields.io/github/stars/bpineau/katafygio)	|
 |	12	|	Rancher  	|	[	Complete container management platform](https://github.com/rancher/rancher)	|	![Github Stars](https://img.shields.io/github/stars/rancher/rancher)	|
 |	13	|	Sealed Secrets  	|	[	A Kubernetes controller and tool for one-way encrypted Secrets](https://github.com/bitnami-labs/sealed-secrets)	|	![Github Stars](https://img.shields.io/github/stars/bitnami-labs/sealed-secrets)	|
 |	14	|	OpenKruise/Kruise  	|	[	Automate application workloads management on Kubernetes https://openkruise.io](https://github.com/openkruise/kruise)	|	![Github Stars](https://img.shields.io/github/stars/openkruise/kruise)	|
@@ -255,7 +255,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 
 
 									
-## Developement Tools/Kit						
+## Development Tools/Kit						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
 | ---------- | --------------------- | --------------------- | ------------------|									
@@ -357,7 +357,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
 | ---------- | --------------------- | --------------------- | ------------------|									
-|	1	|	HybridK8s Droid  	|	[	Intelligence foor your favourite Delivery Platform](https://hybridk8s.tech/)	|	-	|
+|	1	|	HybridK8s Droid  	|	[	Intelligence for your favourite Delivery Platform](https://hybridk8s.tech/)	|	-	|
 |	2	|	Devtron  	|	[	Software Delivery Workflow for Kubernetes](https://github.com/devtron-labs/devtron)	|	![Github Stars](https://img.shields.io/github/stars/devtron-labs/devtron)	|
 |	3	|	Skaffold  	|	[	Easy and Repeatable Kubernetes Development](https://github.com/GoogleContainerTools/skaffold)	|	![Github Stars](https://img.shields.io/github/stars/GoogleContainerTools/skaffold)	|
 |	4	|	Apollo  	|	[	Apollo - The logz.io continuous deployment solution over kubernetes](https://github.com/logzio/apollo)	|	![Github Stars](https://img.shields.io/github/stars/logzio/apollo)	|
@@ -461,12 +461,12 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | ---------- | --------------------- | --------------------- | ------------------|									
 |	1	|	Testkube  	|	[	Kubernetes-native testing framework for testers and developers](https://github.com/kubeshop/testkube)	|	![Github Stars](https://img.shields.io/github/stars/kubeshop/testkube)	|
 |	2	|	k6d  	|	[	A modern load testing tool, using Go and JavaScript](https://github.com/loadimpact/k6)	|	![Github Stars](https://img.shields.io/github/stars/loadimpact/k6)	|
-|	3	|	Network bandwith and load testingd - 	|	[	Test suite for Kubernetes](https://github.com/mrahbar/k8s-testsuite)	|	![Github Stars](https://img.shields.io/github/stars/mrahbar/k8s-testsuite)	|
+|	3	|	Network bandwidth and load testingd - 	|	[	Test suite for Kubernetes](https://github.com/mrahbar/k8s-testsuite)	|	![Github Stars](https://img.shields.io/github/stars/mrahbar/k8s-testsuite)	|
 |	4	|	test-infrad  	|	[	Test infrastructure for the Kubernetes project](https://github.com/kubernetes/test-infra)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes/test-infra)	|
 |	5	|	kube-scored  	|	[	Kubernetes object analysis with recommendations for improved reliability and security](https://github.com/zegl/kube-score)	|	![Github Stars](https://img.shields.io/github/stars/zegl/kube-score)	|
 |	6	|	Litmusd  	|	[	Cloud-Native Chaos Engineering; Kubernetes-Native Chaos Engineering; Chaos Engineering for Kubernetes](https://github.com/litmuschaos/litmus)	|	![Github Stars](https://img.shields.io/github/stars/litmuschaos/litmus)	|
 |	7	|	PowerfulSeald  	|	[	A powerful testing tool for Kubernetes clusters](https://github.com/bloomberg/powerfulseal)	|	![Github Stars](https://img.shields.io/github/stars/bloomberg/powerfulseal)	|
-|	8	|	kube-burnerd  	|	[	Kube-burner is a tool aimed at stressing kubernetes clusters](https://kube-burner.readthedocs.io/en/latest/)	|	-	|
+|	8	|	kube-burner  	|	[	Kube-burner is a tool aimed at stressing kubernetes clusters](https://github.com/kube-burner/kube-burner)	|	![Github Stars]	|
 |	9	|	Tracetest  	|	[	Generate end-to-end and integration tests automatically from your OpenTelemetry traces](https://github.com/kubeshop/tracetest)	|	![Github Stars](https://img.shields.io/github/stars/kubeshop/tracetest)	|
 |	10	|	Microcks  	|	[	 Kubernetes native tool for mocking and testing API and micro-services](https://github.com/microcks/microcks)	|	![Github Stars](https://img.shields.io/github/stars/microcks/microcks)	|
 |	11	|	KWOK  	        |	[	Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.](https://github.com/kubernetes-sigs/kwok)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/kwok)	|
@@ -652,7 +652,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	4	|    	kopylot |	[	An AI-Powered assistant for Kubernetes developers ](https://github.com/avsthiago/kopylot)	|	![Github Stars](https://img.shields.io/github/stars/avsthiago/kopylot)	|
 |	5	|	aiac  	|	[	Artificial Intelligence K8s manifest and package generator](https://github.com/gofireflyio/aiac)	|	![Github Stars](https://img.shields.io/github/stars/gofireflyio/aiac)	|
 |	6	|	mico  	|	[	An AI assisted kubectl helper](https://github.com/tahtaciburak/mico)	|	![Github Stars](https://img.shields.io/github/stars/tahtaciburak/mico)	|
-|	7	|	kserve  	|	[ Standardized Serverless ML Inference Platform on Kubernets](https://github.com/kserve/kserve)	|	![Github Stars](https://img.shields.io/github/stars/kserve/kserve)|
+|	7	|	kserve  	|	[ Standardized Serverless ML Inference Platform on Kubernetes](https://github.com/kserve/kserve)	|	![Github Stars](https://img.shields.io/github/stars/kserve/kserve)|
 |	8	|    	 kubectl-assistant |	[	This tool uses OpenAI's GPT3 API to generate Kubernetes kubectl commands to run against a cluster ](https://github.com/dkoshkin/kubectl-assistant)	|	![Github Stars](https://img.shields.io/github/stars/dkoshkin/kubectl-assistant)	|
 |	9	|    	 HolmesGPT |	[	The only DevOps assistant that solves alerts like a human does - by looking at alerts and fetching missing data repeatedly until the alert can be solved ](https://github.com/robusta-dev/holmesgpt)	|	![Github Stars](https://img.shields.io/github/stars/robusta-dev/holmesgpt)	|
 
@@ -700,7 +700,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	1	|	Rudr  	|	[	A Kubernetes implementation of the Open Application Model specification](https://github.com/oam-dev/rudr)	|	![Github Stars](https://img.shields.io/github/stars/oam-dev/rudr)	|
 |	2	|	Keel 	|	[	Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates](https://keel.sh/)	|	-	|
 |	3	|	Cabin, the mobile app for Kubernetes - 	|	[	The Mobile Dashboard for Kubernetes](https://github.com/bitnami-labs/cabin)	|	![Github Stars](https://img.shields.io/github/stars/bitnami-labs/cabin)	|
-|	4	|	Funktion 	|	[	CLI tool for working with funktion](https://github.com/funktionio/funktion)	|	![Github Stars](https://img.shields.io/github/stars/funktionio/funktion)	|
+|	4	|	Function 	|	[	CLI tool for working with function](https://github.com/functionio/function)	|	![Github Stars](https://img.shields.io/github/stars/functionio/function)	|
 |	5	|	Alterant  	|	[	A simple Kubernetes configuration modifier](https://github.com/cloud66-oss/alterant)	|	![Github Stars](https://img.shields.io/github/stars/cloud66-oss/alterant)	|
 |	6	|	BUCK  	|	[	Brigade Universal Controller for Kubernetes](https://github.com/brigadecore/buck)	|	![Github Stars](https://img.shields.io/github/stars/brigadecore/buck)	|
 |	7	|	kube-fledged  	|	[	A kubernetes add-on for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly](https://github.com/senthilrch/kube-fledged)	|	![Github Stars](https://img.shields.io/github/stars/senthilrch/kube-fledged)	|

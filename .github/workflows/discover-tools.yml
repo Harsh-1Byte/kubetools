@@ -1,0 +1,39 @@
+name: Auto-Discover Kubernetes Tools
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Daily at 9 AM UTC (added missing asterisk)
+  workflow_dispatch:      # Manual trigger for testing
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: pip install requests
+      
+    - name: Run Tool Discovery
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        echo "🚀 Starting Kubernetes Tools Discovery..."
+        echo "📁 Current directory: $(pwd)"
+        echo "📁 Files in scripts/: $(ls -la scripts/ || echo 'scripts directory not found')"
+        python scripts/discover_tools.py
+        
+    - name: Upload Results
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: discovered-tools
+        path: |
+          discovered_tools_*.json
+          new_tools_issue_*.md
+        retention-days: 30
