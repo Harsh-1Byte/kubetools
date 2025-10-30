@@ -17,13 +17,13 @@ Follow the Kubetools [Twitter](https://twitter.com/kubetools) account for update
 
 Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 10,000+ DevOps enthusiasts.<br>
 
-## Top Featured Kubernetes Tools( Sep 2025)				
+## Top Featured Kubernetes Tools( Oct 2025)				
 				
 
 - [KubeArchInspect](https://github.com/ArmDeveloperEcosystem/kubearchinspect)
 - [Kuberay](https://collabnix.com/deploying-ray-on-kubernetes/)
 - [K8s-insider](https://collabnix.com/streamlining-kubernetes-networking-with-k8s-insider/)
-- [Krs](https://github.com/kubetoolsca/krs)
+- [Agentkube](https://github.com/agentkube/agentkube)
 - [Stern](https://collabnix.com/tail-kubernetes-with-stern/)
 - [Node Problem Detector](https://kubetools.io/monitoring-node-health-with-node-problem-detector-in-kubernetes/)	
 - [Karpenter](https://kubetools.io/supercharge-your-kubernetes-cluster-with-karpenter/)
@@ -178,6 +178,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	38	|	kubectl foreach  	|	[  Run kubectl commands in all/some contexts in parallel (similar to GNU xargs+parallel) ](https://github.com/ahmetb/kubectl-foreach)	|	![Github Stars](https://img.shields.io/github/stars/ahmetb/kubectl-foreach)	|
 |	39	|	kubecui  	|	[ kubeui makes kubectl more user friendly ](https://github.com/pymag09/kubecui)	|	![Github Stars](https://img.shields.io/github/stars/pymag09/kubecui)	|
 |	40	|	q-as-kubectl  	|	[ q as kubectl: yet another way to control k8s commands ](https://github.com/ildar-shaimordanov/q-as-kubectl)	|	![Github Stars](https://img.shields.io/github/stars/ildar-shaimordanov/q-as-kubectl)	|
+|	41	|	kubectl find  	|	[ UNIX-find-like plugin for kubectl to find resources and perform action on them  ](https://github.com/alikhil/kubectl-find)	|	![Github Stars](https://img.shields.io/github/stars/alikhil/kubectl-find)	|
 
 
 ## Alert and Monitoring						
@@ -429,7 +430,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	42	|	MKAT  	|	[ All-in-one auditing toolkit for identifying common security issues in managed Kubernetes environments. Currently supports Amazon EKS ](https://github.com/DataDog/managed-kubernetes-auditing-toolkit)	|	![Github Stars](https://img.shields.io/github/stars/DataDog/managed-kubernetes-auditing-toolkit)	|
 |	43	|	Kubescape  	|	[ Kubernetes security platform for configuration scanning, risk analysis, and runtime protection. CNCF project that includes policy enforcement, vulnerability scanning, and RBAC visualizer ](https://github.com/kubescape/kubescape)	|	![Github Stars](https://img.shields.io/github/stars/kubescape/kubescape)	|
 |	44	|	Oligo  	|	[ Observe application behavior to see what your risks really are – and stop breaches before they begin ](https://www.oligo.security/)	|	-	|
-|	45	|	kube-advisor.io  	|	[ kube-advisor.io lets you detect misconfigurations and best practice violations of your Kubernetes clusters - continuously and in real-time ](https://kube-advisor.io/)	|	-	|
+|	45	|	kube-advisor.io  	|	[ kube-advisor.io lets you detect misconfigurations and best practice violations of your Kubernetes clusters - continuously and in real-time ](https://kube-advisor.io/)	|	![GitHub Stars](https://img.shields.io/github/stars/kube-advisor-io/kube-advisor-agent)	|
 
 
 ## Network Policies						
@@ -655,6 +656,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	7	|	kserve  	|	[ Standardized Serverless ML Inference Platform on Kubernetes](https://github.com/kserve/kserve)	|	![Github Stars](https://img.shields.io/github/stars/kserve/kserve)|
 |	8	|    	 kubectl-assistant |	[	This tool uses OpenAI's GPT3 API to generate Kubernetes kubectl commands to run against a cluster ](https://github.com/dkoshkin/kubectl-assistant)	|	![Github Stars](https://img.shields.io/github/stars/dkoshkin/kubectl-assistant)	|
 |	9	|    	 HolmesGPT |	[	The only DevOps assistant that solves alerts like a human does - by looking at alerts and fetching missing data repeatedly until the alert can be solved ](https://github.com/robusta-dev/holmesgpt)	|	![Github Stars](https://img.shields.io/github/stars/robusta-dev/holmesgpt)	|
+| 10 | Agentkube | [an AI-powered Kubernetes IDE for Developers and DevOps teams](https://github.com/agentkube/agentkube) | ![Github Stars](https://img.shields.io/github/stars/agentkube/agentkube)| 
 
 ## Caching
 
